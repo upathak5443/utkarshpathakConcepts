@@ -1,1 +1,2 @@
-line2
+file2 second branch changes
+file2line1
